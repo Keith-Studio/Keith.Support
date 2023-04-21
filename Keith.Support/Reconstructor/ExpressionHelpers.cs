@@ -8,7 +8,6 @@ public static class ExpressionHelpers
 {
     public static T GetPropertyValue<T>(this Expression<Func<T>> lambda)
     {
-        
         return lambda.Compile().Invoke();
     }
     public static void SetPropertyValue<T>(this Expression<Func<T>> lambda, T value)
