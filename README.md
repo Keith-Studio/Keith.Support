@@ -21,6 +21,11 @@ WPF is based on `Ninject`'s MVVM framework reference library.
 
 `Currently unable to install using Nuget`
 
+## License
+Keith. Support is used in both open source and commercial environments. To allow it to be used in as many situations as possible. You can choose to use Keith. Support under the MIT license.
+
+Refer to [LICENSE](https://github.com/Keith-Studio/Keith.Support/blob/main/LICENSE) for detailed information.
+
 ## Gratitude
 - [Ninject](https://github.com/ninject/Ninject)
 - [JetBrains](https://www.jetbrains.com/)
