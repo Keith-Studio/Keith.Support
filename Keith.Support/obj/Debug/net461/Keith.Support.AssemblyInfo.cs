@@ -12,11 +12,14 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ethereal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyCopyrightAttribute("JesseAis")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Faster MVVM framework!")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("2.1.4.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2.1.4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Keith.Support")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Keith.Support")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("2.1.4.0")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/Keith-Studio/Keith.Support")]
 [assembly: System.Resources.NeutralResourcesLanguageAttribute("zh")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

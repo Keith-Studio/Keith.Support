@@ -1,0 +1,12 @@
+G:\Project\Keith\Library\Keith.Support\Keith.Support\bin\Debug\net6.0-windows\Keith.Support.deps.json
+G:\Project\Keith\Library\Keith.Support\Keith.Support\bin\Debug\net6.0-windows\Keith.Support.dll
+G:\Project\Keith\Library\Keith.Support\Keith.Support\bin\Debug\net6.0-windows\Keith.Support.pdb
+G:\Project\Keith\Library\Keith.Support\Keith.Support\obj\Debug\net6.0-windows\Keith.Support.csproj.AssemblyReference.cache
+G:\Project\Keith\Library\Keith.Support\Keith.Support\obj\Debug\net6.0-windows\Keith.Support.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\Keith\Library\Keith.Support\Keith.Support\obj\Debug\net6.0-windows\Keith.Support.AssemblyInfoInputs.cache
+G:\Project\Keith\Library\Keith.Support\Keith.Support\obj\Debug\net6.0-windows\Keith.Support.AssemblyInfo.cs
+G:\Project\Keith\Library\Keith.Support\Keith.Support\obj\Debug\net6.0-windows\Keith.Support.csproj.CoreCompileInputs.cache
+G:\Project\Keith\Library\Keith.Support\Keith.Support\obj\Debug\net6.0-windows\Keith.Support.dll
+G:\Project\Keith\Library\Keith.Support\Keith.Support\obj\Debug\net6.0-windows\refint\Keith.Support.dll
+G:\Project\Keith\Library\Keith.Support\Keith.Support\obj\Debug\net6.0-windows\Keith.Support.pdb
+G:\Project\Keith\Library\Keith.Support\Keith.Support\obj\Debug\net6.0-windows\ref\Keith.Support.dll

@@ -1,0 +1,11 @@
+G:\Project\Keith\Library\Keith.Support\Keith.Support\bin\Debug\net461\Keith.Support.dll
+G:\Project\Keith\Library\Keith.Support\Keith.Support\bin\Debug\net461\Keith.Support.pdb
+G:\Project\Keith\Library\Keith.Support\Keith.Support\bin\Debug\net461\Ninject.dll
+G:\Project\Keith\Library\Keith.Support\Keith.Support\obj\Debug\net461\Keith.Support.csproj.AssemblyReference.cache
+G:\Project\Keith\Library\Keith.Support\Keith.Support\obj\Debug\net461\Keith.Support.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\Keith\Library\Keith.Support\Keith.Support\obj\Debug\net461\Keith.Support.AssemblyInfoInputs.cache
+G:\Project\Keith\Library\Keith.Support\Keith.Support\obj\Debug\net461\Keith.Support.AssemblyInfo.cs
+G:\Project\Keith\Library\Keith.Support\Keith.Support\obj\Debug\net461\Keith.Support.csproj.CoreCompileInputs.cache
+G:\Project\Keith\Library\Keith.Support\Keith.Support\obj\Debug\net461\Keith.Support.csproj.CopyComplete
+G:\Project\Keith\Library\Keith.Support\Keith.Support\obj\Debug\net461\Keith.Support.dll
+G:\Project\Keith\Library\Keith.Support\Keith.Support\obj\Debug\net461\Keith.Support.pdb

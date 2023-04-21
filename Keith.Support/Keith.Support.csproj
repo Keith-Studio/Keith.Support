@@ -17,11 +17,21 @@
         <Authors>JesseAis</Authors>
         <Company>Ethereal</Company>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+        <Description>Faster MVVM framework!</Description>
+        <Copyright>JesseAis</Copyright>
+        <PackageProjectUrl>https://github.com/Keith-Studio/Keith.Support</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/Keith-Studio/Keith.Support/blob/main/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/Keith-Studio/Keith.Support</RepositoryUrl>
+        <Version>2.1.4</Version>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <PackageIcon>logo.png</PackageIcon>
     </PropertyGroup>
 
     <ItemGroup>
       <PackageReference Include="Ninject" Version="4.0.0-beta.1" />
     </ItemGroup>
-
+    <ItemGroup>
+        <None Include="..\README.md" Pack="true" PackagePath="\"/>
+        <None Include="..\logo.png" Pack="true" PackagePath="\"/>
+    </ItemGroup>
 </Project>
