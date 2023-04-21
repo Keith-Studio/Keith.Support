@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFrameworks>net5.0-windows;net6.0-windows;net47;net471;net472;net48;net481;netcoreapp3.0;net46;net461;net462</TargetFrameworks>
+        <OutputType>Library</OutputType>
+        <AppDesignerFolder>Properties</AppDesignerFolder>
+        <PackageId>Keith.Support</PackageId>
+        <Product>Keith.Support</Product>
+        <Title>Keith.Support</Title>
+        <NeutralLanguage>zh</NeutralLanguage>
+        <Nullable>enable</Nullable>
+        <UseWPF>true</UseWPF>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <GenerateLibraryLayout>true</GenerateLibraryLayout>
+        <IsPackable>true</IsPackable>
+        <LangVersion>latest</LangVersion>
+        <Authors>JesseAis</Authors>
+        <Company>Ethereal</Company>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Ninject" Version="4.0.0-beta.1" />
+    </ItemGroup>
+
+</Project>

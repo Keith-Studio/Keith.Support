@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Pnsh/hTQGgjk4m/zD5gJAd0W6LbNc887NLl2ecRtveXo4xe328I+yxW0fqwRqy+eo8nyn7QY4IftmiSAKnJ/w==",
+  "success": true,
+  "projectFilePath": "G:\\Project\\Keith\\Library\\Keith.Support\\Keith.Support\\Keith.Support.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jesse\\.nuget\\packages\\ninject\\4.0.0-beta.1\\ninject.4.0.0-beta.1.nupkg.sha512",
+    "C:\\Users\\Jesse\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.7.0\\system.reflection.emit.ilgeneration.4.7.0.nupkg.sha512",
+    "C:\\Users\\Jesse\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
